@@ -1,0 +1,9 @@
+{
+  "name": "vibe-clothing-editor",
+  "version": "0.0.1",
+  "description": "clothing editor made for amnezja",
+  "main": "index.js",
+  "author": "MyNick",
+  "license": "MIT",
+  "type": "module"
+}
