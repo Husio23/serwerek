@@ -1,0 +1,4 @@
+files = [ "stream/ped_female.rpf/*", "stream/ped_female_p.rpf/*" ]
+
+[meta]
+"stream/mp_f_freemode_01_mp_f_vrp_clothes_f_supciv.meta" = "SHOP_PED_APPAREL_META_FILE"
